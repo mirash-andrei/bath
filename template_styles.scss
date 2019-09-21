@@ -671,7 +671,9 @@ h2{
   .rewiews {
     background-repeat: no-repeat;
   }
-
+  .modal .heading_bg{
+    height: 200px;
+  }
 }
 .modal{
   .close{
@@ -680,9 +682,7 @@ h2{
     top: 5px;
     color: $green;
   }
-.heading_bg{
-  height: 200px;
-}
+
   }
 
 
